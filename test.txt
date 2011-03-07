@@ -1,2 +1,3 @@
 Adding a file
 I'm on dev branch
+Now I'm on v0.2
